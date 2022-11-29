@@ -1,0 +1,6 @@
+/home/lwj/Documents/Cplusplus/CMakeTest/build2/CMakeFiles/Tutorial.dir
+/home/lwj/Documents/Cplusplus/CMakeTest/build2/CMakeFiles/edit_cache.dir
+/home/lwj/Documents/Cplusplus/CMakeTest/build2/CMakeFiles/rebuild_cache.dir
+/home/lwj/Documents/Cplusplus/CMakeTest/build2/MathFunctions/CMakeFiles/MathFunctions.dir
+/home/lwj/Documents/Cplusplus/CMakeTest/build2/MathFunctions/CMakeFiles/edit_cache.dir
+/home/lwj/Documents/Cplusplus/CMakeTest/build2/MathFunctions/CMakeFiles/rebuild_cache.dir
